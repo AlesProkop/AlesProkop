@@ -8,7 +8,7 @@ I enjoy working on developer infrastructure, build systems, performance, and too
 ### Dev & Tooling
 [![My Skills](https://skillicons.dev/icons?i=git,github,powershell,visualstudio,vscode)](https://skillicons.dev)
 ### Platforms
-[![My Skills](https://skillicons.dev/icons?i=azure,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,windows,linux)](https://skillicons.dev)
 <!--
 **AlesProkop/AlesProkop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
