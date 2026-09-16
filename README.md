@@ -1,13 +1,14 @@
-# Hey there! 👋
+# Hey there! 
 
 I'm Aleš, a Software Engineer at Microsoft working on MSBuild.
 
 I enjoy working on developer infrastructure, build systems, performance, and tooling.
-
-## 🛠️ Technologies
-
-https://skillicons.dev/icons?i=cs,dotnet,cpp,python,azure,git,github,visualstudio,vscode,powershell,docker,linux,cmake](https://skillicons.dev)
-
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,html,css)](https://skillicons.dev)
+### Dev & Tooling
+[![My Skills](https://skillicons.dev/icons?i=git,github,powershell,visualstudio,vscode)](https://skillicons.dev)
+### Platforms
+[![My Skills](https://skillicons.dev/icons?i=azure,linux,windows)](https://skillicons.dev)
 <!--
 **AlesProkop/AlesProkop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
